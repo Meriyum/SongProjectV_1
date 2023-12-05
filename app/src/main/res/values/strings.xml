@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Song Application</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_song_description">Oops!\nNo Song in the SongApp.\nTap + to add.</string>
+    <string name="edit_Song_title">Edit Song</string>
+    <string name="song">Song</string>
+    <string name="song_detail_title">Song Details</string>
+    <string name="song_entry_title">Add Song</string>
+    <string name="song_name_req">Song Name*</string>
+    <string name="author_req">author Required*</string>
+    <string name="no">No</string>
+    <string name="author">author</string>
+    <string name="lyrics">lyrics</string>
+    <string name="in_stock">%d in stock</string>
+    <string name="lyrics_req">lyrics Required*</string>
+    <string name="save_action">Save</string>
+    <string name="sell">Sell</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+    <string name="search_action">search item</string>
+</resources>
